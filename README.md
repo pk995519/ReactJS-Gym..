@@ -67,10 +67,4 @@ The app uses the following dependencies:
 * react-scripts
 * styled-components
 
-## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).
